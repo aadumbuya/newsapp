@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color kPrimaryColor = Color(0xFF09437b);
+const Color kPrimaryLightColor = Color(0xFFF1E6FF);
+const Color kWhiteColor = Color(0xFFFFFFFF);
+const Color kProfileBcgColor = Color(0xFFF4FCF7);
+const Color kProfileTextColor = Color(0xFF67CA61);
+const Color kBcgColor = Color(0xFFEFF4F1);
+const Color kGreyColor = Color(0xFF808080);
+const Color kRedColor = Color(0xFFEB6967);
+const Color kGreenColor = Color(0xFF67CA61);
+const Color kBlackColor = Color(0xFF000000);
+const Color kCounterGreenColor = Color(0xFF66C562);
+const Color kDangerColor = Color(0xFFF46B68);
+const Color kSuccessColor = Color(0xFF2bc155);
+const Color kWarningColor = Color(0xFFF6BA35);
+const Color kInfoColor = Color(0xFF369DC9);
+const Color kLBLogoColor = Color(0xFF06386E);
+const Color kIconBcgColor = Color(0x0C008080);
+const Color kNewIconBcgColor = Colors.teal;
+const Color kLifeBloodRed = Color(0xFFaf0d0c);
+const Color kLifeBloodBlue = Color(0xFF205072);
